@@ -46,10 +46,10 @@ body{
     color: #696363;
 }
 
-.Btn:hover{
+/* .Btn:hover{
     transform:scale(0.9);
     box-shadow:inset 0px 0px 4px #ffffff,-1px -1px 12px rgb(0,0,.4);
-}
+} */
 
 #equal{
     padding: 20px  80px ;
